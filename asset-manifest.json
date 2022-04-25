@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://christianscholtysik.github.io/csb-hfzq84/static/css/main.2b91012d.chunk.css",
+    "main.js": "https://christianscholtysik.github.io/csb-hfzq84/static/js/main.3b91fa9c.chunk.js",
+    "main.js.map": "https://christianscholtysik.github.io/csb-hfzq84/static/js/main.3b91fa9c.chunk.js.map",
+    "runtime-main.js": "https://christianscholtysik.github.io/csb-hfzq84/static/js/runtime-main.259e3dbe.js",
+    "runtime-main.js.map": "https://christianscholtysik.github.io/csb-hfzq84/static/js/runtime-main.259e3dbe.js.map",
+    "static/js/2.644e4824.chunk.js": "https://christianscholtysik.github.io/csb-hfzq84/static/js/2.644e4824.chunk.js",
+    "static/js/2.644e4824.chunk.js.map": "https://christianscholtysik.github.io/csb-hfzq84/static/js/2.644e4824.chunk.js.map",
+    "index.html": "https://christianscholtysik.github.io/csb-hfzq84/index.html",
+    "static/css/main.2b91012d.chunk.css.map": "https://christianscholtysik.github.io/csb-hfzq84/static/css/main.2b91012d.chunk.css.map",
+    "static/js/2.644e4824.chunk.js.LICENSE.txt": "https://christianscholtysik.github.io/csb-hfzq84/static/js/2.644e4824.chunk.js.LICENSE.txt",
+    "static/media/Profile_Picture.881f82bc.jpg": "https://christianscholtysik.github.io/csb-hfzq84/static/media/Profile_Picture.881f82bc.jpg",
+    "static/media/React-logo.c1400a56.png": "https://christianscholtysik.github.io/csb-hfzq84/static/media/React-logo.c1400a56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.259e3dbe.js",
+    "static/js/2.644e4824.chunk.js",
+    "static/css/main.2b91012d.chunk.css",
+    "static/js/main.3b91fa9c.chunk.js"
+  ]
+}
